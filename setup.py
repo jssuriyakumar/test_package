@@ -11,11 +11,11 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/jssuriyakumar/test-package',
+    url='https://github.com/jssuriyakumar/test_package',
     project_urls = {
-        "Bug Tracker": "https://github.com/jssuriyakumar/test-package/issues"
+        "Bug Tracker": "https://github.com/jssuriyakumar/test_package/issues"
     },
     license='MIT',
-    packages=['test-package'],
+    packages=['test_package'],
     install_requires=['pandas','python_dateutil','tqdm' ,'requests','beautifulsoup4'],
 )

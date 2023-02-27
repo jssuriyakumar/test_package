@@ -6,7 +6,7 @@ It's main goal, however, is to demonstrate how to create a package.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Toolbox like below.
 Rerun this command to check for and install  updates .
 ```bash
-pip install git+https://github.com/jssuriyakumar/test-package
+pip install git+https://github.com/jssuriyakumar/test_package
 ```
 
 ## Usage
